@@ -1,0 +1,9 @@
+
+.pop-up{
+    display: none;
+}
+
+.show{
+    display: flex;
+    flex-direction: row;
+}
